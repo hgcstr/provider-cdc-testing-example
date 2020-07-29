@@ -1,0 +1,28 @@
+{
+    "1": {
+        "name": "Hugo Castro",
+        "password": "testPact1234",
+        "profession": "Taxfix Engineer",
+        "career" : "idk"
+    },
+    "2": {
+        "name": "rob kendal",
+        "password": "password3",
+        "profession": "code fiddler"
+    },
+    "3": {
+        "name": "teresa may",
+        "password": "parliament",
+        "profession": "brexit killer"
+    },
+    "4": {
+        "name": "Annabel",
+        "password": "pass_2hbq0r",
+        "profession": "Moviemaker"
+    },
+    "5": {
+        "name": "Sidney",
+        "password": "pass_n667kr",
+        "profession": "Lawyer"
+    }
+}
